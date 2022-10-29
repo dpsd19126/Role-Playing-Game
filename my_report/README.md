@@ -1,8 +1,8 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name: Sotidis Alexandros
+### University Registration Number: dpsd19126
+### GitHub Personal Profile: https://github.com/dpsd19126
 ### Digital & Serious Games Personal Repository: xxx
 
 # Introduction
