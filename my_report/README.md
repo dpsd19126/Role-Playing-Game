@@ -16,7 +16,7 @@
 
 ![d1-removebg-preview3](https://user-images.githubusercontent.com/100956044/201169382-4a35e862-7134-44ef-8120-ad1e5eb1abbb.png)
  
-Συνεχίζοντας με την βοήθεια των οδηγιών (https://learn.unity.com/tutorial/main-character-and-first-script?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#5cda9cf1edbc2a0968fb8617) αφού μελέτησα τον κώδικα τον πρόσθεσα ως script που είναι απαραίτητο για την κίνηση του παίχτη.
+Συνεχίζοντας με την βοήθεια των οδηγιών [εδω] (https://learn.unity.com/tutorial/main-character-and-first-script?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#5cda9cf1edbc2a0968fb8617) αφού μελέτησα τον κώδικα τον πρόσθεσα ως script που είναι απαραίτητο για την κίνηση του παίχτη.
  
 
 # 2nd Deliverable
