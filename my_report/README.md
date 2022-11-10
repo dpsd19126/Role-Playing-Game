@@ -26,7 +26,21 @@
 Στο τελικό στάδιο για την διακόσμηση του χώρου βρήκα αυτά τα δυο αντικείμενα κατά την αναζήτηση μου,ώστε να ταιριάζουν στο στυλ του πραγματικού παιχνιδιού.
 
 
-# 2nd Deliverable![rock](https://user-images.githubusercontent.com/100956044/201178742-43ab8c32-69c1-4426-8e4f-e06a3e21bdae.png)
+
+
+
+![rock-removebg-preview3](https://user-images.githubusercontent.com/100956044/201179035-851c865d-faea-4456-8d9b-463085248349.png)
+
+
+![mario-pipe-pixel-art-maker-25960-removebg-preview 3](https://user-images.githubusercontent.com/100956044/201179057-22161d6f-b1ea-4e96-8a19-a9e3ab9b4002.png)
+
+
+
+
+
+
+
+# 2nd Deliverable
 
 
 
