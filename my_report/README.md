@@ -23,8 +23,11 @@
 
 ![sheet_20-removebg-preview3](https://user-images.githubusercontent.com/100956044/201177661-5d0c8078-3f8d-4786-b7de-36872c88aef6.png)
 
+Στο τελικό στάδιο για την διακόσμηση του χώρου βρήκα αυτά τα δυο αντικείμενα κατά την αναζήτηση μου,ώστε να ταιριάζουν στο στυλ του πραγματικού παιχνιδιού.
 
-# 2nd Deliverable
+
+# 2nd Deliverable![rock](https://user-images.githubusercontent.com/100956044/201178742-43ab8c32-69c1-4426-8e4f-e06a3e21bdae.png)
+
 
 
 # 3rd Deliverable 
