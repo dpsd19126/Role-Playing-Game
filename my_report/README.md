@@ -41,6 +41,8 @@
 2)
 ![mario-pipe-pixel-art-maker-25960-removebg-preview 3](https://user-images.githubusercontent.com/100956044/201179057-22161d6f-b1ea-4e96-8a19-a9e3ab9b4002.png)
 
+Τις πρόσθεσα ως sprites και αφού δημιούργησα ένα prefab για την κάθε μια τις πρόσθεσα στο παιχνίδι μου.Άλλαξα το pivot τους καθώς και το pivot του χαρακτήρα μου μέσα από τον sprite editor ώστε να επικαλύπτεται το ένα από το άλλο αναλόγως την θέση τους μέσα από τις τελευταίες [οδηγίες](https://learn.unity.com/tutorial/decorating-the-world?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#5ce2878aedbc2a0704649373) αλλά στην αρχή δεν μου δούλεψε.Τελικά όρισα το order layer του background 0 και των εμποδίων-παίχτη στο 1 και λειτούργησε.
+
 
 
 
