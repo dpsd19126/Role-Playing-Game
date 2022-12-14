@@ -57,7 +57,7 @@
 ![health](https://user-images.githubusercontent.com/100956044/207704774-267610e8-976b-43e9-b156-643431b7b67e.png)
 
 
-3ο βήμα στην σειρά αποτελούν οι εχθροί.Διάλεξα τα συγκεκριμένα φυτά του πραγματικού παιχνιδιού super Mario και φυσικά σαν εχθρό τον bowser.
+3ο βήμα στην σειρά αποτελούν οι εχθροί.Διάλεξα τα συγκεκριμένα φυτά του πραγματικού παιχνιδιού super Mario και φυσικά σαν εχθρό τον bowser
 
 
 1)
@@ -66,7 +66,7 @@
 
 2)
 ![bowser1](https://user-images.githubusercontent.com/100956044/207706704-c7f18a93-2105-44e8-9555-916703bfe14e.png)
-
+και από [εδώ](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) τους πρόσθεσα τον απαραίτητο κώδικα ώστε να προκαλούν damage στον παίχτη και να του αφαιρούν την ζωή κατά 1 μονάδα  σε κάθε σύγκρουση.
 
 
 
