@@ -80,7 +80,7 @@
 Στο προτελευταίο σημείο της άσκησης με  την βοήθεια των [οδηγιών](https://learn.unity.com/tutorial/world-interactions-projectile?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) πρόσθεσα το projectile που θα εκτοξεύει ο παίχτης απο εδω
 
 
-![projectile](https://user-images.githubusercontent.com/100956044/207714237-af1f3e92-81e6-4cda-b49b-a257bb4cc6aa.png)
+
 
 
 
