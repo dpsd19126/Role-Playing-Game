@@ -94,7 +94,12 @@
 
 
 
+![projectile](https://user-images.githubusercontent.com/100956044/207714237-af1f3e92-81e6-4cda-b49b-a257bb4cc6aa.png)
 
+
+
+
+Τέλος άλλαξα τις ρυθμίσεις της κάμερας από [εδώ](https://learn.unity.com/tutorial/camera-cinemachine?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) ώστε να ακολουθεί την κίνηση του παίχτη καθώς  και να σταματάει η κίνηση του στις άκρες της πίστας.Βέβαια καθώς εμπλούτιζα την πίστα μου εμφανίστηκαν γραμμές στην οθόνη λόγο του Τilemap το όποιο όμως λύθηκε μέσα από αυτό το [βίντεο](https://www.youtube.com/watch?v=Wf98KrAyB2I).
 
 
 
