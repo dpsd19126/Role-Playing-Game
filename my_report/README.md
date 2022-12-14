@@ -60,13 +60,17 @@
 3ο βήμα στην σειρά αποτελούν οι εχθροί.Διάλεξα τα συγκεκριμένα φυτά του πραγματικού παιχνιδιού super Mario και φυσικά σαν εχθρό τον bowser.
 
 
+1)
+![plantenemy](https://user-images.githubusercontent.com/100956044/207706755-3a7505be-1e0c-4402-96ca-d8d8621024d9.png)
 
+
+2)
 ![bowser1](https://user-images.githubusercontent.com/100956044/207706704-c7f18a93-2105-44e8-9555-916703bfe14e.png)
 
 
 
 
-![plantenemy](https://user-images.githubusercontent.com/100956044/207706755-3a7505be-1e0c-4402-96ca-d8d8621024d9.png)
+
 
 # 3rd Deliverable 
 
