@@ -68,18 +68,33 @@
 ![bowser1](https://user-images.githubusercontent.com/100956044/207706704-c7f18a93-2105-44e8-9555-916703bfe14e.png)
 
 
-και από [εδώ](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) τους πρόσθεσα τον απαραίτητο κώδικα ώστε να προκαλούν damage στον παίχτη και να του αφαιρούν την ζωή κατά 1 μονάδα  σε κάθε σύγκρουση.Το 4ο βήμα είναι και αυτό που με δυσκόλεψε περισσότερο.Μπερδεύτηκα στην αρχή με τις [οδηγίες](https://learn.unity.com/tutorial/sprite-animation?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) αλλά με βοήθησε αρκετά το συγκεκριμένο [βίντεο](https://www.youtube.com/watch?v=whzomFgjT50&t=1003s)που βρήκα.Έτσι δημιούργησα αρχικά την επαναλαμβανομένη κίνηση του εχθρού με την χρήση του κώδικα των οδηγιών.Όσον αναφορά την κίνηση του παίχτη έφτιαξα ένα Βlender Τree για την κάθε μια κατάσταση(idle,movement,hit,launch),τους πρόσθεσα τα animations  και ευτυχώς μέσα από τις οδηγίες κατάλαβα την λογική που θα πρέπει να ακολουθήσω για τα transitions.Αλλά αναγκάστηκα να αλλάξω στα παρακάτω sprites του παίχτη καθώς και την χρήση δεύτερου σετ  εικόνων του bowser  ώστε να μπορέσω να δημιουργήσω τα αντίστοιχα animations.
+και από [εδώ](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) τους πρόσθεσα τον απαραίτητο κώδικα ώστε να προκαλούν damage στον παίχτη και να του αφαιρούν την ζωή κατά 1 μονάδα  σε κάθε σύγκρουση.Το 4ο βήμα είναι και αυτό που με δυσκόλεψε περισσότερο.Μπερδεύτηκα στην αρχή με τις [οδηγίες](https://learn.unity.com/tutorial/sprite-animation?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) αλλά με βοήθησε αρκετά το συγκεκριμένο [βίντεο](https://www.youtube.com/watch?v=whzomFgjT50&t=1003s)που βρήκα.Έτσι δημιούργησα αρχικά την επαναλαμβανομένη κίνηση του εχθρού με την χρήση του κώδικα των οδηγιών.Όσον αναφορά την κίνηση του παίχτη έφτιαξα ένα Βlender Τree για την κάθε μια κατάσταση(idle,movement,hit,launch),τους πρόσθεσα τα animations  και ευτυχώς μέσα από τις οδηγίες κατάλαβα την λογική που θα πρέπει να ακολουθήσω για τα transitions.Αλλά αναγκάστηκα να αλλάξω στα παρακάτω sprites του παίχτη ώστε να μπορέσω να δημιουργήσω τα αντίστοιχα animations.
 
 
-1)
+
 ![mario3](https://user-images.githubusercontent.com/100956044/207711395-0e671937-1382-482b-9053-1176e0c88cfb.png)
 
 
 
 
+![projectile](https://user-images.githubusercontent.com/100956044/207714237-af1f3e92-81e6-4cda-b49b-a257bb4cc6aa.png)
 
-2)
+Στο προτελευταίο σημείο της άσκησης με  την βοήθεια των [οδηγιών](https://learn.unity.com/tutorial/world-interactions-projectile?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) πρόσθεσα το projectile που θα εκτοξεύει ο παίχτης απο εδω
+
+
+![projectile](https://user-images.githubusercontent.com/100956044/207714237-af1f3e92-81e6-4cda-b49b-a257bb4cc6aa.png)
+
+
+
+
+καθώς και το animation του bowser από το παρακάτω σετ  εικόνων που εκτελείται αφού χτυπηθεί από το αντικείμενο του παίχτη.
+ 
+
+
 ![bowser2](https://user-images.githubusercontent.com/100956044/207711455-acbc45b2-835a-4b39-81fa-468971ab5e94.png)
+
+
+
 
 
 
