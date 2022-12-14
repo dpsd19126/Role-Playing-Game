@@ -50,7 +50,7 @@
 
 
 # 2nd Deliverable
-
+Αρχικά μέσα από τις [οδηγίες](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#)
 
 
 # 3rd Deliverable 
