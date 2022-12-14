@@ -66,6 +66,8 @@
 
 2)
 ![bowser1](https://user-images.githubusercontent.com/100956044/207706704-c7f18a93-2105-44e8-9555-916703bfe14e.png)
+
+
 και από [εδώ](https://learn.unity.com/tutorial/world-interactions-damage-zones-and-enemies?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) τους πρόσθεσα τον απαραίτητο κώδικα ώστε να προκαλούν damage στον παίχτη και να του αφαιρούν την ζωή κατά 1 μονάδα  σε κάθε σύγκρουση.
 
 
