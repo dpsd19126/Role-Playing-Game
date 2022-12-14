@@ -50,7 +50,13 @@
 
 
 # 2nd Deliverable
-Αρχικά μέσα από τις [οδηγίες](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#)
+Αρχικά μέσα από τις [οδηγίες](https://learn.unity.com/tutorial/world-interactions-blocking-movement?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) πρόσθεσα Rigidbody και Colliders στον χαρακτήρα,στα αντικείμενα και στα Τiles ώστε να υπάρχουν συγκρούσεις μεταξύ τους.Στην συνέχεια από το δεύτερο σετ  [οδηγιών](https://learn.unity.com/tutorial/world-interactions-collectibles?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#) μελετώντας τον κώδικα κατάφερα να μετρώ την ζωή του παίχτη μου και  να  μπορεί να αυξάνεται με την συλλογή του παρακάτω αντικείμενου.
+
+
+
+![health](https://user-images.githubusercontent.com/100956044/207704774-267610e8-976b-43e9-b156-643431b7b67e.png)
+
+
 
 
 # 3rd Deliverable 
