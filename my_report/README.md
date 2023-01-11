@@ -120,6 +120,12 @@
 ![marioimage](https://user-images.githubusercontent.com/100956044/211923319-9d212059-cf59-4243-86dd-06fc33dd8926.png)
 
 
+Μετά μέσα από τις [οδηγίες](https://learn.unity.com/tutorial/world-interactions-dialogue-raycast?uv=2020.3&projectId=5c6166dbedbc2a0021b1bc7c#5c7f8528edbc2a002053b3c1) πρόσθεσα τον χαρακτήρα με τον οποίο αλληλεπιδρά ο παίχτης μου,έφτιαξα το animation και το κείμενο που παρουσιάζεται.
+
+
+
+
+![toad](https://user-images.githubusercontent.com/100956044/211925400-220ebb62-480d-4ea5-a030-ab42c5b28ee3.png)
 
 
 
