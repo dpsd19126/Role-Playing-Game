@@ -128,6 +128,11 @@
 ![toad](https://user-images.githubusercontent.com/100956044/211925400-220ebb62-480d-4ea5-a030-ab42c5b28ee3.png)
 
 
+Με μπέρδεψε βέβαια η λειτουργιά του Raycasting ώστε να υλοποιήσω το teleport του παίχτη οπότε με του συγκεκριμένου [βίντεο](https://www.youtube.com/watch?v=0JXVT28KCIg) πρόσθεσα τον κατάλληλο κώδικα και την παρακάτω εικόνα ως πόρτα.
+
+
+
+![teleportdoor](https://user-images.githubusercontent.com/100956044/211926653-d379b420-b23a-4a95-925c-99ad5f24c137.png)
 
 
 
