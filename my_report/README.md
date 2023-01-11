@@ -134,8 +134,8 @@
 
 ![teleportdoor](https://user-images.githubusercontent.com/100956044/211926653-d379b420-b23a-4a95-925c-99ad5f24c137.png)
 
-[εδω](https://freesound.org) ,[εδω](https://soundbible.com) και [εδω](https://www.pacdv.com/sounds/people_sounds.html).
 
+4ο βήμα των οδηγιών ήταν η εισαγωγή ήχων που πηρά από [εδώ](https://freesound.org) ,[εδώ](https://soundbible.com) και [εδώ](https://www.pacdv.com/sounds/people_sounds.html) και με τον απαραίτητο κώδικα κατάφερα να αλλάζω την ένταση  του ήχου του εχθρού αναλόγως την απόσταση του από τον παίχτη.
 
 
 # Conclusions
